@@ -99,8 +99,8 @@ Meetup Clique is a full-stack web application for the "Beranang Buckets" basketb
 ## 🛠️ Technologies Used
 
 ### Backend
-- **Django 4.x** - High-level Python web framework
-- **Python 3.x** - Core programming language
+- **Django 5.2.1** - High-level Python web framework
+- **Python 3.10.11** - Core programming language
 - **SQLite** - Lightweight database for development
 - **Django ORM** - Object-Relational Mapping for database operations
 
